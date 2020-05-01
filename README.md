@@ -35,6 +35,7 @@
 **Deployed at:** [Netlify](https://tippler-team1.netlify.app/) and [Heroku](h).
 
 [![Build Status](https://semaphoreci.com/api/v1/hmvitous/cocktails_client_team_1/branches/master/badge.svg)](https://semaphoreci.com/hmvitous/cocktails_client_team_1)
+[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/cocktails_api_team_1/badge.svg?branch=master)](https://coveralls.io/github/CraftAcademy/cocktails_api_team_1?branch=master)
 
 
 
